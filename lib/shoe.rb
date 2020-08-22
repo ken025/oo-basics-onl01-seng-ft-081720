@@ -7,3 +7,5 @@ class Shoes
   attr_reader :brand
   attr_accessor :color, :size, :material, :condition
 end 
+
+Shoe.new("Adidas")
