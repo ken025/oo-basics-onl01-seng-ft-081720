@@ -4,5 +4,5 @@ class Shoes
   def initialize(brand)
     @brand = brand
   end 
-  attr_reader :brandl
+  attr_reader :brand
 end 
