@@ -3,4 +3,4 @@ class Book
     @title = title
 end 
 end 
-book = Book.new
+book = Book.new("")
