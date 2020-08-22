@@ -6,7 +6,7 @@ class Shoe
   end
 
   attr_reader :brand
-
+def cobble 
 end
 
 Shoe.new("Adidas")
