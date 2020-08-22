@@ -6,7 +6,9 @@ class Shoe
   end
 
   attr_reader :brand
-def cobble 
+def cobble()
+  if :condition == "new"
+    puts ""
 end
 
 Shoe.new("Adidas")
